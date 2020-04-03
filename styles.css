@@ -1,0 +1,50 @@
+.heading{
+    text-align: center;
+    margin: 10px 0;
+    font-size: 70px;
+    margin-top: 0;
+}
+.coronavirus{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 150px;
+  left: 180px;
+}
+.virus{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 150px;
+  right: 120px;
+
+}
+.div-1{
+  background-color: #4cd3c2;
+  margin-top: 0;
+  padding: 60px 0;
+}
+.imag-vs{
+  background-color: #4cd3c2;
+  width: 150px;
+  height: 150px;
+}
+.coro{
+  text-align: center;
+}
+.slide{
+  margin: 50px 0;
+  background-color: #aacfcf;
+  padding: 180px;
+  margin-top: 0;
+}
+.sec-2{
+  font-size: 80px
+}
+.div-2{
+  background-color: #827397;
+  text-align: center;
+  margin: 0 auto 0 auto;
+  padding : 140px 0 10px 0;
+  font-size: 100px;
+}
